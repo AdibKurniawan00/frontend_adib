@@ -1,0 +1,64 @@
+#promo h1 {
+  padding: 4rem;
+}
+
+#bootcamp h1 {
+  padding: 4rem;
+}
+
+#featured {
+  padding-top: 4rem;
+}
+
+footer {
+  background-color: rgb(15, 15, 15);
+}
+
+.sos {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.sos:first-of-type {
+  margin-left: 39em;
+}
+
+.col-form-label {
+  color: white;
+  margin-left: 20em;
+}
+
+.form p {
+  padding: 2rem;
+  color: white;
+}
+
+.form-text {
+  text-align: center;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  color: white;
+}
+a {
+  color: white;
+}
+.links p {
+  color: white;
+}
+
+.copyright {
+  background-color: black;
+  color: white;
+  padding: 1em;
+}
+
+.links p {
+  padding-left: 1.6rem;
+  font-size: larger;
+}
+
+.link {
+  padding-left: 8rem;
+}
